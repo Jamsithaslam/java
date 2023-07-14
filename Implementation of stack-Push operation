@@ -1,0 +1,17 @@
+#push operation:
+
+if(! isFull ()) 
+
+{
+
+top = top + 1;
+
+stack[top] = item;
+
+}
+
+else {
+
+ printf(“stack is full”);
+
+}
