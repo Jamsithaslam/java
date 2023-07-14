@@ -1,0 +1,19 @@
+int pop( int item){
+
+If isEmpty()) {
+
+item = stack[top];
+
+top = top - 1;
+
+return item;
+
+}
+
+else{
+
+printf(“stack if empty”);
+
+}
+
+}
